@@ -1,0 +1,141 @@
+body {
+    background-color: #ffffff;
+    font-family: Microsoft JhengHei;
+}
+#page-wrapper{
+    padding-left:270px;
+}
+.breadcrumb li span{
+    font-size:18px;
+    color:#000;
+    padding-right: 3px;
+}
+.breadcrumb li label{
+    font-size:18px;
+    color:#000;
+    font-weight: normal;
+}
+.breadcrumb li a{
+    font-size:18px;
+    color:#adadba;
+}
+#device_sign{
+    color: #7c0000;
+}
+
+.date_map_page-content{
+    width: 600px;
+    height: 700px;
+}
+
+.map_and_datepicker{
+    border:0.5px #ccc solid;
+    border-radius:8px;
+    width:360px;
+    height:185px;
+    background-color:#eee;
+}
+.map_and_datepicker_padding{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.date_map_select{
+    width: 300px;
+    height: 28px;
+    overflow: hidden;
+    font-family: Microsoft JhengHei;
+}
+.date_map_select select{
+    width: 200px;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    border: 0.5px solid black;
+    border-radius: 3px;
+}
+.date_map_select label{
+    font-size: 20px;
+    color: #000;
+    padding-right: 4px;
+}
+
+.date_map_input_datepicker{
+
+}
+.date_map_input_datepicker input{
+    width: 120px;
+    height: 28px;
+    font-family: system-ui, sans-serif;
+    font-size: 18px;   /* if that’s what you want... */
+    line-height: 1.4;  /* somewhat excessive */
+    color: #000;    /* if that’s what you want, but it reduces legibility */
+    background: white; /* always set background when you set color */
+    border: 0.5px solid black;
+    border-radius: 3px;
+}
+.date_map_input_datepicker span{
+    font-size: 18px;
+    padding-left: 4px;
+}
+.date_map_input_datepicker input::placeholder {
+  color: #000;
+}
+.date_map_input_datepicker label{
+    padding-right: 4px;
+    font-size: 20px;
+    color: #000;
+    font-family: Microsoft JhengHei;
+}
+.datepicker_input_text{
+    text-align: center;
+}
+.timepicker{
+
+}
+.timepicker label{
+    font-size: 20px;
+    color: #000;
+    font-family: Microsoft JhengHei;
+}
+.timepicker label#title{
+    padding-right: 8px;
+}
+.timepicker label#timepicker_hour{
+    padding-right: 3px;
+    font-size: 15px;
+}
+.timepicker label#timepicker_minute{
+    padding-right: 3px;
+    font-size: 15px;
+}
+.input_button_ok{
+
+}
+.input_button_padding{
+    padding-right: 10px;
+}
+.input_button_ok input{
+    font-size: 16px;
+    width: 70px;
+    font-family: Microsoft JhengHei;
+    color: #000;
+    font-weight: bold;
+}
+
+.map_div{
+    border:0.5px #ccc solid;
+    border-radius:8px;
+    width:1280px;
+    height:600px;
+    background-color:#eee;
+}
+.map_div_h3{
+    font-size: 20px;
+    font-family: Microsoft JhengHei;
+}
+.date_map_space{
+    height: 20px;
+}
+.date_map_space2{
+    height: 30px;
+}

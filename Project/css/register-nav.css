@@ -1,0 +1,54 @@
+body{
+	font-family: Microsoft JhengHei, sans-serif;
+	background-color: #efefef;
+}
+.topnav_css{
+	background-color: #ffffff;
+}
+.navbar-nav li label{
+	font-weight: normal;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+#title_css{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: Ariel Black, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	color: #000;
+}
+.navbar-nav{
+	font-size: 20px;
+}
+.navbar-nav li{
+	line-height: 50px;
+}
+
+.navbar-nav li a{
+	color: #000;
+}
+.navbar-nav li a:hover{
+	background-color: #878787;
+}
+
+.index_content_css label{
+	font-family: Ariel Black, sans-serif;
+	font-weight: bold;
+}
+.content_size{
+	height: 300px;
+	width: 600px;
+	margin:0px auto;
+}
+
+#pulser_css{
+	font-size: 45px;
+}
+#inspiring_css{
+	font-size:40px;
+	display: block;
+}
+#future{
+	font-size:35px;
+}

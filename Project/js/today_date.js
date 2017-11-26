@@ -1,0 +1,9 @@
+var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth()+1;
+    var yy = today.getFullYear();
+    if(dd<10){dd='0'+dd;} 
+    if(mm<10){mm='0'+mm;} 
+    var today = '今日  '+ yy +'年 / ' + mm +'月 / '+ dd + '日';
+    document.getElementById('DATE').innerHTML = today;
+    document.getElementById('DATE').placeholder = yy + '-' + mm + '-' + dd;

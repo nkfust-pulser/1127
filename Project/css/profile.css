@@ -1,0 +1,105 @@
+body {
+  font-family : "微軟正黑體";
+  padding-top: 80px;
+}
+.panel-body {
+  padding: 0;
+}
+.table {
+  margin:0;
+}
+.footer {
+  color: #000;
+  text-align: center;
+}
+.table{
+  margin-bottom:0px;
+}
+.titletext {
+  font-size: 28px;
+  color: #0088D8;
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+.subtext {
+  background-color: #F2F2F2;
+  padding: 15px 0px;
+  text-align: center;
+}
+.subtext:hover {
+  box-shadow: 0 10px 10px -2px rgba(0,0,0,0.12);
+}
+.subtext a {
+  color: #000;
+  outline: none;
+}
+.subtext a:hover, .forGotPassword a:active, .forGotPassword a:focus {
+  text-decoration: none;
+  outline: none;
+}
+.modal-body:not(.two-col) {
+  padding: 0px
+}
+.modal-body .radio, .modal-body .checkbox {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.modal-body .list-group {
+  margin-bottom: 0;
+  font-size: 16px;
+}
+.modal-body .list-group .list-group-item .list-group-item-subtext {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #036;
+}
+.modal-body .list-group .list-group-item .votetotal {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333;
+}
+.margin-bottom-none {
+  margin-bottom: 0;
+}
+.modal-body .radio label, .modal-body .checkbox label {
+  display: block;
+}
+.modal-footer {
+  margin-top: 0px;
+}
+.modal-dialog {
+  margin-top: 5%;
+}
+@media screen and (max-width: 325px) {
+  .btn-close {
+    margin-top: 5px;
+    width: 100%;
+  }
+  .btn-results {
+    margin-top: 5px;
+    width: 100%;
+  }
+  .btn-vote {
+    margin-top: 5px;
+    width: 100%;
+  }
+}
+.modal-footer .btn+.btn {
+  margin-left: 0px;
+}
+.progress {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+/*!
+ * Start Bootstrap - SB Admin (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+
+

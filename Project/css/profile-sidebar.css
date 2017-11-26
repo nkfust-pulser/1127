@@ -1,0 +1,138 @@
+/*!
+ * Start Bootstrap - Simple Sidebar (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+/* Toggle Styles */
+body {
+  font-family : "微軟正黑體";
+  padding-top: 80px;
+  background-color: #edeeef;
+}
+.label-header{
+  font-size: 23px;
+  margin-bottom: 0px;
+  font-family: Arial Black, sans-serif;
+}
+
+.spacing-head-wrapper{
+
+}
+
+
+/*!
+ * Start Bootstrap - SB Admin (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+
+
+
+
+
+#sidebar-wrapper {
+ height: 100%;
+ overflow-y: auto;
+ background: transparent;
+}
+
+
+
+.sidebar-nav {
+    top: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: Microsoft JhengHei,Sans-serif;
+    background-color: #ffffff;
+}
+
+.sidebar-nav li {
+    line-height: 50px;
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    padding: 0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 20px;
+
+}
+
+.sidebar-nav li a:hover {
+    text-decoration: none;
+    color: #000;
+    background-color: #9a9ea5;
+}
+
+.sidebar-nav li a:active,
+.sidebar-nav li a:focus {
+    text-decoration: none;
+}
+
+
+.label-brand{
+    color: #000;
+    margin: 0;
+    padding: 0;
+    font-size: 21px;
+    font-family: Microsoft JhengHei,Sans-serif;
+    width: inherit;
+}
+.sidebar-label-brand{
+    color: #000;
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-family: Microsoft JhengHei,Sans-serif;
+}
+
+.user-profile{
+    top: 0;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: Microsoft JhengHei,Sans-serif;
+    border-radius: 15px;
+    height: inherit;
+}
+.profile{
+    z-index: 1000;
+    width: 400px;
+    height: 100%;
+    margin: 0;
+    background: transparent;
+    padding-left: 100px;
+}
+
+@media(min-width:768px) {
+
+}
+
+
+.panel-red {
+    border-color: #d9534f;
+}
+
+.panel-red > .panel-heading {
+    border-color: #d9534f;
+    color: #fff;
+    background-color: #d9534f;
+}
+
+.panel-red > a {
+    color: #d9534f;
+}
+
+.panel-red > a:hover {
+    color: #b52b27;
+}

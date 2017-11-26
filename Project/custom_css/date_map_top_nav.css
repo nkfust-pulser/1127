@@ -1,0 +1,38 @@
+#top_nav_wrapper{
+	background-color: #000;
+}
+
+.navbar-nav{
+	font-weight: bold;
+	margin-right: 0px;
+}
+.navbar-nav li{
+	font-size:18px;
+}
+
+.navbar-nav li a{
+	font-size:19px;
+	color:#fff;
+}
+.navbar-nav li a span{
+
+}
+.navbar-nav li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+.navbar-nav li ul{
+	text-align: center;
+	font-size:15px;
+}
+
+.topbar{
+	padding-right: 0px;
+	padding-left: 0px;
+	background-color: #110f0f;
+	margin-bottom: 0px;
+}
+.logout_span{
+	margin-top: 1px;
+	margin-bottom: 1px;
+}

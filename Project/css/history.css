@@ -1,0 +1,14 @@
+body {
+  font-family : "微軟正黑體";
+}
+#page-content{
+	height: 100px;
+	padding-left: 330px;
+}
+.page-header{
+
+	margin-top: 0px;
+}
+#page-space-1{
+	height: 15px;
+}

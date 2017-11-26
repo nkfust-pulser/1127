@@ -1,0 +1,90 @@
+body{
+	font-family: Microsoft JhengHei, sans-serif;
+	background-color: #efefef;
+}
+.topnav_css{
+	background-color: #ffffff;
+	box-shadow:4px 4px 12px -2px rgba(20%,20%,40%,0.5);
+}
+.navbar-nav li label{
+	font-weight: normal;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+#title_css{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: Ariel Black, sans-serif;
+	font-weight: bold;
+	font-size: 25px;
+	color: #000;
+}
+.navbar-nav{
+	font-size: 20px;
+}
+.navbar-nav span{
+	font-size: 22px;
+}
+.navbar-nav li{
+	line-height: 50px;
+}
+.navbar-nav li a{
+	color: #000;
+}
+.navbar-nav li a:hover{
+	background-color: #878787;
+}
+.topnav_and_form_padding{
+	height: 20%;
+}
+.loginbox{
+	border-radius: 5px;
+	background-color: #fff;
+	box-shadow:4px 4px 12px -2px rgba(20%,20%,40%,0.5);
+	height: 320px;
+	width: 600px;
+	margin:0px auto;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.singtext1{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Microsoft JhengHei, sans-serif;
+}
+.singtext2{
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Ariel Black, sans-serif;
+}
+.form_title_padding{
+	padding-top: 10px;
+}
+.form_label{
+	font-size: 21.5px;
+	color: #000;
+	font-family: Microsoft JhengHei, sans-serif;
+}
+.form_inside_padding{
+	height: 10px;
+}
+input[type="text"]{
+	height: 40px;
+}
+input[type="password"]{
+	height: 40px;
+}
+button[type="submit"]{
+	font-size: 20px;
+	text-align: center;
+	width: 30%;
+	border-radius: 2px;
+	background-color: #e0e1e2;
+	font-weight: bold;
+	color: #000;
+	box-shadow:4px 4px 12px -2px rgba(20%,20%,40%,0.5);
+}
+button[type="submit"]:hover{
+	font-size: 21px;
+	color: #000;
+}
